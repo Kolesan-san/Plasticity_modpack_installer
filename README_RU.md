@@ -1,6 +1,6 @@
-# PLS3DCH Installer
+# Plasticity modpack Installer
 
-Простой установщик для модпака **PLS3DCH** для **Plasticity**.
+Простой установщик модов со структурой как у **PLS3DCH** для **Plasticity**.
 
 ---
 
