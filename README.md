@@ -1,8 +1,6 @@
-# PLS3DCH Installer
+# Plasticity modpack Installer
 
-This is a simple installer for the **PLS3DCH modpack** for **Plasticity**.
-
-📖 [Read this documentation in Russian](https://github.com/Kolesan-san/PLS3DCH_installer/blob/main/README_RU.md)
+📖 [Read this documentation in Russian](https://github.com/Kolesan-san/Plasticity_modpack_installer/blob/main/README_RU.md)
 
 ---
 
