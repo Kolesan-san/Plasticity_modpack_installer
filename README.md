@@ -2,6 +2,8 @@
 
 This is a simple installer for the **PLS3DCH modpack** for **Plasticity**.
 
+📖 [Read this documentation in Russian](https://github.com/Kolesan-san/PLS3DCH_installer/blob/main/README_RU.md)
+
 ---
 
 ## 🟢 Base Mode
