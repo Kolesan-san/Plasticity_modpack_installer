@@ -7,7 +7,7 @@ The method is valid only for Plasticity v2025.1.xx - v2025.2.xx
 
 ---
 
-## 🟢 Base Mode (not actial now)
+## 🟢 Base Mode (not actual now)
 
 Recommended for most users. 
 
